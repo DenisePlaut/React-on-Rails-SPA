@@ -658,7 +658,7 @@
     "xtend": "4.0.1",
     "yallist": "3.0.3",
     "yargs": "6.6.0",
-    "yargs-parser": "4.2.1"
+    "yargs-parser": "13.1.2"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
