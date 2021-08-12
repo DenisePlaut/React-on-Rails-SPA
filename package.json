@@ -431,7 +431,7 @@
     "path-exists": "2.1.0",
     "path-is-inside": "1.0.2",
     "path-key": "2.0.1",
-    "path-parse": "1.0.6",
+    "path-parse": "1.0.7",
     "path-to-regexp": "1.7.0",
     "path-type": "1.1.0",
     "performance-now": "2.1.0",
