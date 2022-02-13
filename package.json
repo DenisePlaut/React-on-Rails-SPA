@@ -237,7 +237,7 @@
     "finalhandler": "1.1.1",
     "find-up": "2.1.0",
     "flush-write-stream": "1.1.1",
-    "follow-redirects": "1.7.0",
+    "follow-redirects": "1.14.8",
     "for-own": "1.0.0",
     "forever-agent": "0.6.1",
     "form-data": "2.3.3",
